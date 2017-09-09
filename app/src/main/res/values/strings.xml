@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IiTunes search music</string>
+    <string name="content_description_splash">This is the Splash Image</string>
+
 </resources>
